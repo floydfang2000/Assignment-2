@@ -17,3 +17,8 @@ You can then check the results under the result file
 ```python -m tools.train_ddpm``` for training ddpm<br />
 ```python -m tools.sample_ddpm```for generating images<br />
 You can then check the results under the result file
+
+
+## Synthetic data with GAN Model
+
+Open ```GAN_synthetic.ipynb``` and just run the notebook. It should be able to run in Google Colab.
