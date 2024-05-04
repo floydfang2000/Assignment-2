@@ -1,3 +1,7 @@
+## Synthetic data with Diffusion Model
+
+Open ```diffusion_synthetic.ipynb``` and follow the instructions in the notebook. 
+
 ## MNIST with first model
 Create a folder called "data"<br />
 Download the MNIST dataset following this (https://github.com/explainingai-code/Pytorch-VAE#data-preparation)<br />
