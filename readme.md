@@ -22,3 +22,8 @@ You can then check the results under the result file
 ## Synthetic data with GAN Model
 
 Open ```GAN_synthetic.ipynb``` and just run the notebook. It should be able to run in Google Colab.
+
+
+## DCGAN + WGAN
+the code of both models is in the corresponding jupyter notebook. 
+To train a model or to look at the dataset, please download the CelebA dataset from the following link and extract the images into the "data/celeba/" folder: https://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
